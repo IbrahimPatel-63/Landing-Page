@@ -2,10 +2,6 @@
 
 This is my first **fully responsive landing page** built using **Tailwind CSS**. Through this project, I learned the **mobile-first approach** for building responsive pages and understood how **breakpoints** work in Tailwind to achieve responsiveness across all devices.
 
-## Screenshot
-
-[![Screenshot](./images/screenshot.png)](./images/screenshot.png)
-
 ## Live Demo
 
 [click here to view the live demo](https://landing-page-brown-gamma-93.vercel.app/)
